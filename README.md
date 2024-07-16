@@ -30,6 +30,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pedromiguel33/pedromiguel33/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
