@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">• C# Developer<br>• Java Developer<br>• Back-end & Front-end</p>
+<p align="left">• .NET Developer <br>• Back-end & Front-end</p>
 
 ###
 
